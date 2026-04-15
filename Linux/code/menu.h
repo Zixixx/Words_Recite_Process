@@ -1,0 +1,24 @@
+#ifndef _MENU
+    #define _MENU
+    void menu_desktop();
+    void menu_logindesktop();
+    void menu_score();
+    void menu_wrong();
+    void menu_account();
+    void menu_wordsbook();
+    void menu_modacc();
+    void menu_modacc_select();
+    void menu_modwords();
+    void menu_modwords_select();
+    void menu_delacc();
+    void menu_delwords();
+    void menu_practice();
+    void menu_preacc();
+    void menu_selectacc();
+    void menu_prewords();
+    void menu_selectwords();
+    void menu_prewrongbook();
+    void menu_systemsetting();
+    void menu_selectrestore();
+    void menu_restore();
+#endif
